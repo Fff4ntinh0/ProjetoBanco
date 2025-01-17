@@ -1,1 +1,1 @@
-Apenas um arquivo de instrução
+Neste projeto, a ideia é criar um banco virtual, aonde possua a interação do usuário e sua gestão financeira com alguns gráficos, e transferência de dinheiro , além de adiciona-lo. Utilizei um banco de dados sql, e uma api dividida entre o main e views , onde views possui todas as rotas, optei por utilizar o bootstrap no css e html. Com isso , este projeto é apenas para aprender mais sobre banco de dados sql e python como api, pretendo junta-lo com uma loja virtual que vou fazer.
